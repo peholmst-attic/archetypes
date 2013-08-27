@@ -1,0 +1,7 @@
+.idea/
+*.iml
+target/
+single-module-vaadin-template/webapp/src/main/webapp/VAADIN/widgetsets/
+single-module-vaadin-template/webapp/src/main/webapp/VAADIN/gwt-unitCache/
+single-module-vaadin-template/webapp-production/src/main/webapp/VAADIN/themes
+
