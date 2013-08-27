@@ -1,0 +1,7 @@
+@import "../reindeer/reindeer.scss";
+
+@mixin ${appName} {
+  @include reindeer;
+
+  /* Insert your theme rules here */
+}
