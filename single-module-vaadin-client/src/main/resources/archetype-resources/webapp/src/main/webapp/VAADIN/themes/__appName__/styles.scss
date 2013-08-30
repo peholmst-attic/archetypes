@@ -1,0 +1,7 @@
+@import "addons.scss";
+@import "${appName}.scss";
+
+.${appName} {
+  @include addons;
+  @include ${appName};
+}
